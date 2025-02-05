@@ -40,5 +40,12 @@ npm install
 npm run dev
 ```
 
+#### ⚠️ Note: MongoDB Setup Required
 
+To run the backend successfully, ensure that **MongoDB** is properly set up on your machine. You can follow the official [MongoDB installation guide](https://docs.mongodb.com/manual/installation/) if you haven't installed it yet.
+
+Additionally, make sure to:
+
+1. **Start MongoDB**: Run MongoDB using compass
+2. **Import Dummy Data**: Import dummy data provided in Backend Repository
 
